@@ -1,1 +1,3 @@
-let goodbye = (n)=> console.log('goodbye '+n + ' see you later, aligator!!');
+let goodbye = (n)=> console.log(`Goodbye ${n} see you later, aligator!!`);
+
+goodbye('dude!');
