@@ -1,0 +1,1 @@
+let goodbye = (n)=> console.log('goodbye '+n + ' see you later, aligator!!');
